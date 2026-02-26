@@ -4,3 +4,4 @@
 ./install/install-chrome.sh
 ./install/install-zen.sh
 ./install/install-vscode.sh
+./install/install-discord.sh

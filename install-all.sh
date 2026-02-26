@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./install/install-yay.sh
+./install/install-chrome.sh
+./install/install-zen.sh
+./install/install-vscode.sh

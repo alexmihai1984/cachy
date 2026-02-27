@@ -5,3 +5,4 @@
 ./install/install-zen.sh
 ./install/install-vscode.sh
 ./install/install-discord.sh
+./install/install-ncdu.sh

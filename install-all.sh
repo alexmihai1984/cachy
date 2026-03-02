@@ -8,3 +8,4 @@
 ./install/install-ncdu.sh
 ./install/install-tmux.sh
 ./install/install-printer.sh
+./install/install-fatrace.sh

@@ -10,3 +10,4 @@
 ./install/install-printer.sh
 ./install/install-fatrace.sh
 ./install/install-iotop.sh
+./install/install-lsof.sh

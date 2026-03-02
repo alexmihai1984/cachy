@@ -7,3 +7,4 @@
 ./install/install-discord.sh
 ./install/install-ncdu.sh
 ./install/install-tmux.sh
+./install/install-printer.sh

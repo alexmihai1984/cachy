@@ -11,3 +11,6 @@
 ./install/install-fatrace.sh
 ./install/install-iotop.sh
 ./install/install-lsof.sh
+./install/install-intellij.sh
+./install/install-sdkman.sh
+./install/install-antigravity.sh

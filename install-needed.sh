@@ -4,10 +4,12 @@
 
 ./install/install-antigravity.sh
 ./install/install-chrome.sh
+./install/install-dbeaver.sh
 ./install/install-docker.sh
 ./install/install-fatrace.sh
 ./install/install-intellij.sh
 ./install/install-iotop.sh
+./install/install-localsend.sh
 ./install/install-lsof.sh
 ./install/install-ncdu.sh
 ./install/install-node.fish

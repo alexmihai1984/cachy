@@ -10,6 +10,9 @@
 ./install/install-iotop.sh
 ./install/install-lsof.sh
 ./install/install-ncdu.sh
+./install/install-node.fish
 ./install/install-printer.sh
-./install/install-sdkman.sh
+./install/install-sdkman.fish
 ./install/install-vscode.sh
+
+./install/install-angular.fish

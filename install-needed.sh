@@ -13,6 +13,7 @@
 ./install/install-lsof.sh
 ./install/install-ncdu.sh
 ./install/install-node.fish
+./install/install-postgres-client.sh
 ./install/install-printer.sh
 ./install/install-sdkman.fish
 ./install/install-vscode.sh

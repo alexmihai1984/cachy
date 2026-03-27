@@ -9,6 +9,7 @@
 ./install/install-fatrace.sh
 ./install/install-intellij.sh
 ./install/install-iotop.sh
+./install/install-libre.sh
 ./install/install-localsend.sh
 ./install/install-lsof.sh
 ./install/install-ncdu.sh

@@ -7,6 +7,7 @@
 ./install/install-dbeaver.sh
 ./install/install-docker.sh
 ./install/install-fatrace.sh
+./install/install-flameshot.sh
 ./install/install-intellij.sh
 ./install/install-iotop.sh
 ./install/install-libre.sh

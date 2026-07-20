@@ -11,3 +11,6 @@
 ./install/install-tmux.sh
 ./install/install-ventoy.sh
 ./install/install-zen.sh
+
+# dependent on 'bun'
+./install/install-gloomberb.sh

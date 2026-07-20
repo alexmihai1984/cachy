@@ -21,3 +21,5 @@
 ./install/install-vscode.sh
 
 ./install/install-angular.fish
+
+./install-bun.sh

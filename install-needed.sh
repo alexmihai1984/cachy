@@ -18,6 +18,7 @@
 ./install/install-okular.sh
 ./install/install-postgres-client.sh
 ./install/install-printer.sh
+./install/install-rust.sh
 ./install/install-sdkman.fish
 ./install/install-vscode.sh
 

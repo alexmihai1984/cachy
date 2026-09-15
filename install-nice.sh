@@ -6,6 +6,7 @@
 ./install/install-k9s.sh
 ./install/install-kubectl.sh
 ./install/install-neofetch.sh
+./install/install-redis-cli.sh
 ./install/install-sublime.sh
 ./install/install-tmux.sh
 ./install/install-ventoy.sh
